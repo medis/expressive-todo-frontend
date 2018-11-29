@@ -1,0 +1,12 @@
+{
+    "name": "medis/expressive-todo-frontend",
+    "require": {
+        "zendframework/zend-expressive": "3.2.1",
+        "zendframework/zend-diactoros": "^1.7.1 || ^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ExpressiveTodoFrontend\\": "src/"
+        }
+    }
+}
